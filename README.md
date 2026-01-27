@@ -1,6 +1,6 @@
-# fpyy_proj_template
+# 2026-proj-fishing-reddrum
 
-Template for starting Fish-PACE project repos. 
+Goal: Map red drum tag data with PACE variables
 
 This repo is an example of how teams can structure their project repositories and format their project README.md file, but feel free to adapt as suits your needs.
 
