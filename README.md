@@ -22,7 +22,7 @@ need to share large datasets.
 | Ted Chia       | Participant |
 | Retno Septiani       | Participant         |
 | Ayeshmantha Andagala       | Participant         |
-| Jeniffer       | Participant         |
+| Jeniffer De Maligaya      | Participant         |
 | Ron Vogel       | Participant         |
 
 ## Datasets
