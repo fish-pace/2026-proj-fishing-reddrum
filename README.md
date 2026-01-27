@@ -1,8 +1,9 @@
 # 2026-proj-fishing-reddrum
 
-Goal: Map red drum tag data with PACE variables
-
-This repo is an example of how teams can structure their project repositories and format their project README.md file, but feel free to adapt as suits your needs.
+**Goal:** Map red drum tag data with PACE variables
+* Slack Channel: **proj-fishdrum**
+* Pitch Slide: [Project 5 Fishery productivity, marine animal habitat: their distribution and their drivers](https://docs.google.com/presentation/d/12q0pR__0EPRSHUYNb3KnKEOb08HT4t3K/edit?slide=id.g3b8a1a82a8e_0_195#slide=id.g3b8a1a82a8e_0_195)
+* Final presentation: Add link
 
 **Folder Structure**
 
@@ -14,36 +15,36 @@ can be shared here. Make sure to communicate so that you limit merge conflicts.
 * `data` Shared dataset can be shared here. Note, do not put large datasets on GitHub. Speak to the organizers if you 
 need to share large datasets. 
 
-## Project Name
-
-## One-line Description
-
-## Planning
-
 ## Collaborators
 
 | Name                | Role                |
 |---------------------|---------------------|
-| Participant 1       | Project Facilitator |
-| Participant 2       | Participant         |
-| Participant 3       | Participant         |
-
-## Planning
-
-* Initial idea: "short description"
-* Ideation jam board: Add link
-* Ideation Presentation: Add link
-* Slack channel: fp25_proj_name
-* Project google drive: Add link
-* Final presentation: Add link
-
-## Background
-
-## Goals
+| Ted Chia       | Participant |
+| Retno Septiani       | Participant         |
+| Ayeshmantha Andagala       | Participant         |
+| Jeniffer       | Participant         |
+| Ron Vogel       | Participant         |
 
 ## Datasets
 
+We are using Red Drum acoustic tag data. The data are weekly averaged pings at the acoustic receivers for 12 individual red drum fish. The primary location of the receivers is Chesapeake Bay but a few are outside of Chesapeake Bay.
+
 ## Workflow/Roadmap
+
+**Tuesday**
+1. Set up GitHub repo - Ted
+2. Edit Readme - Ron
+3. Look at the code for L2 - Jeniffer, Retno
+4. Downloading L3 data - Ted, Ayeshmantha
+5. Make reddrum tag data available thru FTP - Ron
+
+**Wednesday**
+
+## Project Name
+
+## One-line Description
+
+## Background
 
 ## Results/Findings
 
