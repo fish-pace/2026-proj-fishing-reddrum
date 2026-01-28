@@ -4,6 +4,8 @@
 
 Red Drum habitat: Fish distribution and investigation into environmental drivers using PACE
 
+## Project Details
+
 **One-line Description:** Use PACE data to infer drivers of red drum habitat
 
 **Goal:** Map red drum tag data with PACE variables
@@ -37,7 +39,11 @@ need to share large datasets.
 
 ## Datasets
 
-We are using Red Drum acoustic tag data. The data are weekly averaged pings at the acoustic receivers for 12 individual red drum fish. The primary location of the receivers is Chesapeake Bay but a few are outside of Chesapeake Bay.
+* Fish data: We are using Red Drum acoustic tag data. The data are weekly averaged pings at the acoustic receivers for 12 individual red drum fish. The primary location of the receivers is Chesapeake Bay but a few are outside of Chesapeake Bay.
+
+* PACE Data:
+  * Level 2: AOP (AVW), BGC (chl, phyto_carbon, poc), granules averaged within 5-day window around given red drum week
+  * Level 3: chl 8-day
 
 ## Workflow/Roadmap
 
