@@ -3,7 +3,8 @@
 **Goal:** Map red drum tag data with PACE variables
 * Slack Channel: **proj-fishdrum**
 * Pitch Slide: [Project 5 Fishery productivity, marine animal habitat: their distribution and their drivers](https://docs.google.com/presentation/d/12q0pR__0EPRSHUYNb3KnKEOb08HT4t3K/edit?slide=id.g3b8a1a82a8e_0_195#slide=id.g3b8a1a82a8e_0_195)
-* Final presentation: Add link
+* Final presentation: [Red Drum habitat: Fish distribution and investigation into environmental drivers using PACE
+](https://docs.google.com/presentation/d/1SemE7DAEMcQuHGXWQbS1p2MyZq411kaqfdzp4s4hTA4/edit?slide=id.p#slide=id.p)
 
 **Folder Structure**
 
