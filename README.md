@@ -14,8 +14,7 @@ Red Drum habitat: Fish distribution and investigation into environmental drivers
 
 **Pitch Slide:** [Project 5 Fishery productivity, marine animal habitat: their distribution and their drivers](https://docs.google.com/presentation/d/12q0pR__0EPRSHUYNb3KnKEOb08HT4t3K/edit?slide=id.g3b8a1a82a8e_0_195#slide=id.g3b8a1a82a8e_0_195)
 
-**Final presentation:** [Red Drum habitat: Fish distribution and investigation into environmental drivers using PACE
-](https://docs.google.com/presentation/d/1SemE7DAEMcQuHGXWQbS1p2MyZq411kaqfdzp4s4hTA4/edit?slide=id.p#slide=id.p)
+**Final presentation:** [Red Drum habitat: Fish distribution and investigation into environmental drivers using PACE (PDF)](https://drive.google.com/file/d/1pQ2yQgXNpXvhm95677x-1XGrc1-goB1M/view)
 
 ## Collaborators
 
@@ -36,7 +35,7 @@ Red Drum habitat: Fish distribution and investigation into environmental drivers
 * `final_notebooks`
   + Final notebooks of Ted and Ayeshmantha
 * `data`
-  + We did not the make red drum data public due to the source researcher not having published the data yet.
+  + We did not make the red drum data public due to the source researcher not having published the data yet.
 
 ## Datasets
 
@@ -65,7 +64,7 @@ Red Drum habitat: Fish distribution and investigation into environmental drivers
   + Perhaps due to lower food availability and colder temperature 
 * In winter, red drum decrease in detections
   + Perhaps due to migration out of the bay or mortality (natural, catch, or by-catch)
-* The red drum detections have higher correlation with POC than Chlor-a which may suggest that POC has higher influence in the red drum habitat preference.
+* BUT, the red drum detections have higher correlation with POC than Chlor-a which may suggest that POC has higher influence in the red drum habitat preference.
 
 ## Emerging Hypotheses
 
